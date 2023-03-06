@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dmytro Shokhov</h1>
 <h3 align="center">I am a backend developer working on the .NET platform. Programming is my hobby, which I spend my time with pleasure.</h3>
 
-- 🔭 Option company [Option](https://github.com/dshohov/Option)
+- 🔭 First real project for the company [Option](https://github.com/dshohov/Option)
 
 - 🌱 I’m currently learning **National Aerospace University named after. M.Є. Zhukovsky "Kharkiv Aviation Institute"**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dshohov](https://github.com/dshohov)
+- 👨‍💻 Educational project I've been working on [DSHOKHOV_SHOP](https://github.com/dshohov/DSHOKHOV_SHOP)
 
 - 📫 How to reach me **dshohov@gmail.com**
 
